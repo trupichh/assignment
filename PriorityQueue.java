@@ -8,6 +8,7 @@ public class PriorityQueue {
         System.out.println(p.poll());
         System.out.println(p.remove());
         System.out.println(p);
+        System.out.println("Hi");
     }
 }
 
